@@ -1,1 +1,3 @@
-# Leetcode solutions [Go]
+# Leetcode Patterns
+
+Link: <https://seanprashad.com/leetcode-patterns/>

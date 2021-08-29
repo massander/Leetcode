@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/reverse-integer/
+
 package main
 
 func reverse(x int) int {
@@ -5,9 +7,9 @@ func reverse(x int) int {
 	for x != 0 {
 		reversedInt = reversedInt*10 + x%10
 		x /= 10
-        if reversedInt != int(int32(reversedInt)){
-            return 0
-        }
+		if reversedInt != int(int32(reversedInt)) {
+			return 0
+		}
 	}
 
 	return reversedInt

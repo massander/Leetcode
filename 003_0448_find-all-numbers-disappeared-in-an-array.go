@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+
 package main
 
 func findDisappearedNumbers(nums []int) []int {

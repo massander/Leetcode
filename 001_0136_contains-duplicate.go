@@ -1,6 +1,6 @@
-package main
+// https://leetcode.com/problems/contains-duplicate/
 
-import "fmt"
+package main
 
 func containsDuplicate(nums []int) bool {
 	visited := make(map[int]int)
@@ -11,8 +11,4 @@ func containsDuplicate(nums []int) bool {
 		}
 	}
 	return false
-}
-
-func main(){
-	fmt.Println(containsDuplicate([]int{1,2,3,1}))
 }

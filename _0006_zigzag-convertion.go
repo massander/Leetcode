@@ -1,9 +1,11 @@
+// https://leetcode.com/problems/zigzag-conversion/
+
 package main
 
 import (
 	"fmt"
-	"strings")
-
+	"strings"
+)
 
 func convert(s string, numRows int) string {
 	if numRows == 1 || len(s) <= numRows {
@@ -39,8 +41,4 @@ func min(x, y int) int {
 	}
 
 	return y
-}
-
-func main() {
-	fmt.Println(convert("PAYPALISHIRING", 3))
 }

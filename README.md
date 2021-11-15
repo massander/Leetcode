@@ -1,6 +1,7 @@
 # Leetcode Patterns
 
 Link: <https://seanprashad.com/leetcode-patterns/>
+
 Progress: 7/170
 
 | # | Title                                                                                                               | Solution                                         | Solution description |

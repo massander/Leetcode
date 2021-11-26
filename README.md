@@ -16,4 +16,5 @@ Progress: 11/170
 | 8  | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                       | [Go](0338_CountingBits.go)                       |                            |
 | 9  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                               | [Go](0141_LinkedListCycle.go)                    | Use slow and fast pointers |
 | 10 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                               | [Go](0876_MiddleOfTheLinkedList.go)              | fast, slow pointer         |
-| 11 | [PalindromeLinkedList](https://leetcode.com/problems/palindrome-linked-list/)                                       | [Go](0234_PalindromeLinkedList.go)               |                            |
+| 11 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                     | [Go](0234_PalindromeLinkedList.go)               |                            |
+| 12 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                           | [Go](0203_RemoveLinkedListElements.go)           |                            |

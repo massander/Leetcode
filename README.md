@@ -1,9 +1,10 @@
-# Leetcode Patterns
+# LeetCode
 
-Link: <https://seanprashad.com/leetcode-patterns/>
+[Leetcode](https://leetcode.com/)
 
-Progress: 13/170
+[Leetcode Patterns](https://seanprashad.com/)
 
+<!-- 
 | #  | Title                                                                                                               | Solution                                         | Solution description       |
 |----|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------------------|
 | 1  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                             | [Go](0136_ContainsDuplicate.go)                  |                            |
@@ -18,4 +19,4 @@ Progress: 13/170
 | 10 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                               | [Go](0876_MiddleOfTheLinkedList.go)              | fast, slow pointer         |
 | 11 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                     | [Go](0234_PalindromeLinkedList.go)               |                            |
 | 12 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                           | [Go](0203_RemoveLinkedListElements.go)           |                            |
-| 13 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)             | [Go](0083_RemoveDuplicatesfromSortedList.go)     | Hash map                   |
+| 13 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)             | [Go](0083_RemoveDuplicatesfromSortedList.go)     | Hash map                   | -->
